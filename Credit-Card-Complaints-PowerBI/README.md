@@ -4,7 +4,7 @@
 This Power BI dashboard provides insights into **86,000+ consumer credit card complaints**.  
 It covers complaint trends, top issues, state-level patterns, and company response performance.
 
-![Credit Card Complaints Dashboard](CreditCardDashboard.png)
+![Credit Card Complaints Dashboard](Credit_card_dashboard.png)
 
 ---
 
