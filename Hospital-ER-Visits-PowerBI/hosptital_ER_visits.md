@@ -4,7 +4,7 @@
 This Power BI project analyzes **10,000+ Emergency Room (ER) visit records** to understand patient demographics, wait times, satisfaction scores, visit patterns, and referral behavior.  
 The dashboard supports hospital workflow optimization, resource allocation, and patient experience improvement.
 
-![Hospital ER Dashboard](Dashboard1.png)
+![Hospital ER Dashboard](er_visits.png)
 
 ---
 
