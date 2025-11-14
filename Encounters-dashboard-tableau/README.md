@@ -1,8 +1,7 @@
 # **Project 3: Healthcare Encounters (Tableau)**  
 
-# Healthcare Encounters Dashboard (Tableau)
 
-![Dashboard](Dashboard3.png)
+![Dashboard](encounter_dashboard.png)
 
 ## 📌 Project Overview
 This Tableau dashboard analyzes **20,000+ hospital encounters** and provides insights into:
