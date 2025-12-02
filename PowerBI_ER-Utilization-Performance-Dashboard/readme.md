@@ -5,6 +5,8 @@
 This Power BI project analyzes Emergency Room (ER) utilization, patient flow, wait-time performance, demographic patterns, referral behavior, and admission outcomes.
 The dashboard supports operational monitoring, staffing optimization, and patient experience improvements.
 
+![Hospital ER Dashboard](Screenshots/er_page_1.png)
+
 🗂️ **Data Sources**
 
 *   `er_data.csv` – Contains patient demographics, admission datetime, wait times, satisfaction scores, and referral details
