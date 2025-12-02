@@ -11,7 +11,7 @@ It covers complaint trends, top issues, state-level patterns, and company respon
 ## 🗂️ Data Sources
 - `complaints.csv` – Complaint details (issue, date, state)
 - `responses.csv` – Company response statuses
-- `state_coordinates.csv` – For geographic mapping
+
 
 Performed preprocessing using Power Query.
 
