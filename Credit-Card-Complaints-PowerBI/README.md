@@ -32,9 +32,7 @@ Performed preprocessing using Power Query.
 
 ### Dimensions:
 - `Dim_Date`
-- `Dim_Issue`
-- `Dim_State`
-- `Dim_Response`
+
 
 Optimized with **bi-directional filtering OFF** for performance.
 
